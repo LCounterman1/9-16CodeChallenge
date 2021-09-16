@@ -1,3 +1,29 @@
 .wrapper {
-    border: 5px solid lightblue;
+    border: thick solid black;
+    border-radius: 25%;
+    background-color: grey;
+    height: 550px;
+}
+
+.header {
+    color: lightgreen;
+    text-align: center;
+}
+
+.blurb {
+    color: blue;
+}
+
+.elaborate {
+    color: red;
+}
+
+.text1 {
+    border: thin solid yellow;
+    border-radius: 25%;
+    background-color: lightgrey;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5%;
+    float: left;
 }
